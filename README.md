@@ -6,7 +6,7 @@
 
 ## Lab 1: Detection of Characteristics
 
-![](README.assets/lab1.png)
+![](lab1/lab1.png)
 
 ### Edge Detection in Grayscale Images
 

@@ -6,6 +6,8 @@
 
 ## Lab 1: Detection of Characteristics
 
+![](README.assets/lab1.png)
+
 ### Edge Detection in Grayscale Images
 
 ### Interest Point Detection
@@ -15,6 +17,8 @@
 
 
 ## Lab 2: Face Tracking using Optical Flow via the Lukas-Kanade Algorithm
+
+![](lab2/lab2.gif)
 
 ### Human skin Detection
 
@@ -27,6 +31,8 @@
 
 
 ## Lab 3: Space-Time Interest Points and Video Feature Extraction
+
+![](lab3/lab3.png)
 
 ### Space-Time Interest Points
 
